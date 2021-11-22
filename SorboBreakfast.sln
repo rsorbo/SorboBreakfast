@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SorboBreakfast", "SorboBreakfast.csproj", "{1723D572-8AF8-4A56-8C44-C3BC7086C90B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorboBreakfastTest", "..\SorboBreakfastTest\SorboBreakfastTest.csproj", "{53C73731-922A-4282-A250-4590D132F3B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1723D572-8AF8-4A56-8C44-C3BC7086C90B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1723D572-8AF8-4A56-8C44-C3BC7086C90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1723D572-8AF8-4A56-8C44-C3BC7086C90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1723D572-8AF8-4A56-8C44-C3BC7086C90B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C73731-922A-4282-A250-4590D132F3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C73731-922A-4282-A250-4590D132F3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C73731-922A-4282-A250-4590D132F3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C73731-922A-4282-A250-4590D132F3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A62BCC7-C04C-4FF0-99F8-74609D2FBCD2}
+	EndGlobalSection
+EndGlobal
